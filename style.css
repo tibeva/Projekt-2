@@ -1,0 +1,17 @@
+h1 {
+  background-color: aquamarine;
+}
+h2 {
+  font-size: larger;
+}
+h3 {
+  color: blueviolet;
+  background-color: yellow;
+  font-style: oblique;
+}
+h4 {
+  text-decoration: wavy;
+  font-size: large;
+  background-color: chartreuse;
+  color: darkorange;
+}
